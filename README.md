@@ -14,7 +14,7 @@ This addon will soon be available on the asset store, but to manually install it
 ## Usage
 
 1. Enable the plugin from `Project Settings`
-2. Use CTRL+SHIFT+P to open command palette and type `fold`
+2. Use `CTRL+SHIFT+P` to open command palette and type `fold`
 
 ## License
 
